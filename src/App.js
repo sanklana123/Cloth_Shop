@@ -19,6 +19,9 @@ function App() {
         </a>
       </header> */}
       <p>Hello</p>
+      <navbar> 
+        kd;flkhadlkfad f
+      </navbar>
     </div>
   );
 }
